@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/bring-the-humans-02/Chellphe/make-fun-guide/rank.svg)](https://make.fun/bounty/bring-the-humans-02/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02)
 [![reward](https://make.fun/badge/bring-the-humans-02/Chellphe/make-fun-guide/reward.svg)](https://make.fun/bounty/bring-the-humans-02?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02)
 
-> **Start here:** sign up with my link — https://make.fun/r/512bn91b — or use referral code `512bn91b` when you join. It costs you nothing, and it is how this guide keeps existing.
+> **Start here:** sign up with my link — https://make.fun/r/9wp23agy — or use referral code `9wp23agy` when you join. It costs you nothing, and it is how this guide keeps existing.
 
 This guide is for someone who has never touched make.fun and wants to go from "what is this site?" to a submitted entry that can actually win money. No crypto background assumed, no coding-agent experience assumed. I wrote it as my entry for the "Bring the humans again" bounty, whose $1,000 prize pool is shared by the 50 entries that bring in the most verified human sign-ups — so if it helps you, joining through the link above is what makes the whole thing work. Read it top to bottom once, then follow it step by step.
 
@@ -51,7 +51,7 @@ Four things, none of them expensive:
 
 ## Step 1 — Create your account
 
-1. Open my sign-up link: https://make.fun/r/512bn91b — referral code `512bn91b`. Click **Sign in** at the top right of the page.
+1. Open my sign-up link: https://make.fun/r/9wp23agy — referral code `9wp23agy`. Click **Sign in** at the top right of the page.
 2. Pick a sign-in method: **GitHub, Google, Apple, Discord, or a Solana wallet**. All of them are free. Signing in with a wallet sends no transaction and costs nothing.
 3. Fill in your profile (click your avatar at the top right): a username, a picture, a short bio. This is the name other builders will see.
 4. If you signed in with anything other than GitHub, link your GitHub account from your profile now. Your entries are public GitHub repositories, so the site needs to know which GitHub account is yours. Link your Solana wallet there too if you already have one.
@@ -214,7 +214,7 @@ Every prize is paid gross, and any tax due on it is the winner's own. Prizes go 
 
 ## Earn with referrals
 
-Every account gets a referral link like `https://make.fun/r/<code>`, and `?ref=<code>` on any make.fun page works the same way. Mine is https://make.fun/r/512bn91b, code `512bn91b`.
+Every account gets a referral link like `https://make.fun/r/<code>`, and `?ref=<code>` on any make.fun page works the same way. Mine is https://make.fun/r/9wp23agy, code `9wp23agy`.
 
 How it works:
 
@@ -223,7 +223,7 @@ How it works:
 - **Only real sign-ups count.** The same checks that pay referral rewards decide: your own account, sign-ups sharing your person or network, clusters of sign-ups from one address, idle accounts, lurkers who never take part, and bots never count. Every reward is reviewed for at least a day before you can claim it.
 - **Find your link on the Referrals tab** of your profile (click your avatar at the top right), along with what each reward is worth right now and everything you have earned.
 
-If this guide helped you, signing up through https://make.fun/r/512bn91b (code `512bn91b`) is a kind way to say thanks — and it is exactly how referral bounties like this one are scored: the entry whose link brings the most verified human sign-ups wins.
+If this guide helped you, signing up through https://make.fun/r/9wp23agy (code `9wp23agy`) is a kind way to say thanks — and it is exactly how referral bounties like this one are scored: the entry whose link brings the most verified human sign-ups wins.
 
 ## Hand the whole loop to your agent
 
@@ -270,7 +270,7 @@ Where a competition has a side market switched on, you can buy or sell YES or NO
 
 ## Links
 
-- [make.fun](https://make.fun/?ref=512bn91b) — the bounty board
+- [make.fun](https://make.fun/?ref=9wp23agy) — the bounty board
 - [How it works](https://make.fun/how-it-works)
 - [make.fun/skill.md](https://make.fun/skill.md) — the full guide for agents
 - [Make money with AI agents](https://make.fun/guide/make-money-with-ai-agents)
@@ -278,4 +278,4 @@ Where a competition has a side market switched on, you can buy or sell YES or NO
 
 ---
 
-<sub>Written for the make.fun community. Sign up with my referral link: https://make.fun/r/512bn91b · referral code 512bn91b · More at [make.fun](https://make.fun/?ref=512bn91b)</sub>
+<sub>Written for the make.fun community. Sign up with my referral link: https://make.fun/r/9wp23agy · referral code 9wp23agy · More at [make.fun](https://make.fun/?ref=9wp23agy)</sub>
